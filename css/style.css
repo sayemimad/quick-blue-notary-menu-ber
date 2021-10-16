@@ -1,0 +1,347 @@
+/*commom css start*/
+
+
+body{
+font-family: sans-serif;
+margin: 0;
+padding: 0;
+}
+
+
+/*commom css end*/
+
+/*header start*/
+header{
+	border: 1px solid black;
+    padding: 15px 0px;
+}
+.wrapper {
+ margin: 0 auto;
+ width: 90%;
+ 
+ overflow: hidden;
+
+}
+
+.logo {
+width: 10%;
+
+float: left;
+
+}
+
+.logo img{
+
+	width: 100%;
+}
+
+
+.menu {
+float: right;
+width: 45%;
+
+margin-top: 5px;
+}
+
+.menu ul{
+	float: right;
+    
+}
+.menu ul li{
+	list-style: none;
+    float: left;
+
+     
+}
+.menu ul li a{
+	text-decoration: none;
+     padding: 0px 15px;
+    display: inline-block;
+     
+
+}
+
+.menu ul li:last-child a{
+
+  padding-right:0 ;
+}
+
+.linkup{
+  font-size: 32px;
+  border: 4px solid cornflowerblue;
+
+
+}
+
+
+
+/*header end*/
+
+
+/*section start*/
+.banner{
+
+
+}
+.wrapper2{
+  width: 50%;
+  margin: 0px auto;
+  
+}
+.b_content{
+text-align: center;
+
+}
+.b_h1{
+margin: 0;
+font-size: 65px;
+color: #0D2455;
+
+}
+.b_span{
+color: #0089FF;
+
+}
+
+.b_text{
+margin: 0;
+
+}
+.b_img{
+
+
+
+}
+
+
+
+
+
+
+
+/*section end*/
+
+
+/*blue.png project start*/
+
+/*header2 start*/
+
+.header2{
+ padding: 15px 0px;
+background: #121B2A;
+}
+.wrapperb{
+width: 85%;
+overflow: hidden;
+margin: 0 auto;
+ 
+}
+.logob{
+
+width: 15%;
+float: left;
+
+}
+
+
+.menub{
+
+width: 50%;
+float: right;
+margin-top: 5px; 
+}
+
+.logob img{
+padding top:5px ;
+width: 100%;
+
+}
+.menub ul li a{
+text-decoration: none;
+display: inline-block;
+padding: 14px 11px;
+}
+.menub ul li{
+float: left;
+list-style: none;
+}
+.menub ul{
+
+float: right;
+
+}
+.menub ul li:last-child a{
+
+padding-right: 0;
+
+}
+
+/*header2 end*/
+
+
+.header3 {
+
+
+
+}
+
+.wrappern {
+
+margin: 0 auto;
+width: 60%;
+overflow: hidden;
+
+}
+
+.logon {
+width: 15%;
+float: left;
+/*border:1px solid black;*/
+}
+
+.logon img{
+width: 100%;
+
+
+}
+
+
+.menun {
+float: right;
+/*border:1px solid black;*/
+width: 65%;
+    font-size: 12px;
+  color: red;
+}
+
+
+.menun ul{
+float: right;
+
+}
+.menun ul li{
+float: left;
+list-style: none;
+
+ padding-top: 8px;
+}
+.menun ul li a{
+    margin: 0 11px;
+text-decoration: none;
+
+}
+
+.menun ul li:last-child a{
+
+margin-right: 0;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/*blue.png project end*/
+
+
+/*The natary start*/
+
+/*header3 start*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*header3 end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*The natary end*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
